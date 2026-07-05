@@ -67,5 +67,7 @@ Working through this project helped me understand not just *how* to write dbt mo
 
 <img width="400" height="400" alt="dbt" src="https://github.com/user-attachments/assets/efb57df0-ad32-49c6-abc8-aa4e3020cbf2" />
 
+----
 
+https://credentials.getdbt.com/69d0b05d-5ae1-46b3-b78b-794ef9821dd8#acc.SUD9AXZw
 
